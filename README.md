@@ -21,7 +21,8 @@ I'm a fullstack developer interested in evolving, acquiring knowledge, and facin
 </div>
 <br>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericperinn&layout=compact&theme=dark&hide_border=true">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericperinn&layout=compact&theme=dark&hide_border=true"> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericperinn&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook">
 </div>
 
 ### 📫 How to Reach Me
